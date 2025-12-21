@@ -23,3 +23,5 @@ Achievements and Impact
 	Category Insights: Analyzed revenue distribution by Category (Furniture, Technology, Office Supplies) and Sub-Category, identifying high-margin products versus loss-making items.
 	Payment & Shipping Trends: Visualized preferred payment modes (COD vs. Online) and shipping classes to optimize logistics and payment gateway partnerships.
 	Forecasting: (Optional - add if you did this) Implemented forecasting visuals to predict future sales trends for the upcoming quarter based on historical data.
+
+https://drive.google.com/drive/folders/1HS9_3YEOPL26ebjenxWa509kMo1kbY3o
