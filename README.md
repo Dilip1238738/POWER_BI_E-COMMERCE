@@ -4,7 +4,7 @@
 
 ## 🔹 Title
 
-**E-Commerce Sales & Profitability Analysis Dashboard
+** E-Commerce Sales & Profitability Analysis Dashboard
 
 ---
 
