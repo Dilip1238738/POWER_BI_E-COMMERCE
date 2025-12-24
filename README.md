@@ -8,15 +8,15 @@
 
 ---
 
-##Description
+## Description
 
-**Developed a comprehensive Power BI dashboard to monitor and analyze the sales performance of an online retail store. The project integrates 
+* **Developed a comprehensive Power BI dashboard to monitor and analyze the sales performance of an online retail store. The project integrates 
 transactional data to provide a holistic view of business health, tracking revenue, profit margins, and shipping efficiencies. It serves as a strategic
-tool for stakeholders to identify top-performing products, regional demand clusters, and opportunities for cost optimization.
+tool for stakeholders to identify top-performing products, regional demand clusters, and opportunities for cost optimization.**
 
 ---
 
-##Technologies Used
+## Technologies Used
 
 * **Microsoft Power BI:** Used for end-to-end report design and visualization.
 * **Power Query:** Utilized for data cleaning and transformation (ETL) to handle missing values and standardize formats.
@@ -25,7 +25,7 @@ tool for stakeholders to identify top-performing products, regional demand clust
 
 ---
 
-##Achievements and Impact
+## Achievements and Impact
 
 * **KPI Visualization:** displayed real-time metrics for Total Sales, Total Profit, Quantity Sold, and Average Order Value, enabling quick performance assessment.
 * **Regional Analysis:** Mapped sales performance across different states and cities using geospatial visuals, highlighting key markets (e.g., California, New York) to drive targeted marketing efforts.  
